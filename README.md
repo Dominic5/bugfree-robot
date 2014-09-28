@@ -1,4 +1,4 @@
 bugfree-robot
 =============
 
-getting started at exercism.io
+my repo for getting started at exercism.io
